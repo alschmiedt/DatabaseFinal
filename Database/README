@@ -1,0 +1,10 @@
+buildTables is for the first run, and doesn't run cleanup first
+
+resetTables does run the cleanup first
+
+setup contains the create table statments
+
+cleanup contains the drop table dataments
+
+build files contains the insert statments for the file named table
+
